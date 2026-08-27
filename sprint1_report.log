@@ -1,0 +1,21 @@
+==================================================
+       DEVOPS SYSTEM HEALTH CHECK REPORT          
+==================================================
+Date & Time : 2026-08-27 21:25:41
+Hostname    : DESKTOP-HV8G83D
+User        : mido
+==================================================
+
+--- [1/2] Disk Space Check ---
+Current disk usage: 1%
+Status: [OK] Disk space within limits.
+
+--- [2/2] Network Reachability Check ---
+Host: google.com -> [ONLINE]
+Host: 8.8.8.8 -> [ONLINE]
+Host: 127.0.0.1 -> [ONLINE]
+
+==================================================
+             END OF DIAGNOSTIC REPORT             
+==================================================
+
